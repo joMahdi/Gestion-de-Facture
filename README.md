@@ -20,7 +20,7 @@
 ### Installation
 `git clone https://github.com/joMahdi/Gestion-de-Facture.git`
 
-`cd lGestion-de-Facture`
+`cd Gestion-de-Facture`
 
 `composer install`
 
