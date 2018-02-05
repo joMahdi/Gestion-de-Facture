@@ -1,4 +1,4 @@
-# Single Page Application with Laravel 5.5 and Vue.js 2 - Invoice
+# Single Application with Laravel 5.5 and Vue.js 2 - Facture
 
 ### Frameworks and Libraries:
 
@@ -13,12 +13,14 @@
 - Nested forms with selectable product
 - CRUD
 
+### Coming very soon
 
+- PDF export alongside the XLSX report
 
 ### Installation
-`git clone https://github.com/codekerala/laravel-vue-js-spa-invoice.git`
+`git clone https://github.com/joMahdi/Gestion-de-Facture.git`
 
-`cd laravel-vue-js-spa-invoice`
+`cd lGestion-de-Facture`
 
 `composer install`
 
