@@ -14,7 +14,6 @@
 - CRUD
 
 
-![alt tag](https://github.com/codekerala/laravel-vue-js-spa-invoice/raw/master/s1.png)
 
 ### Installation
 `git clone https://github.com/codekerala/laravel-vue-js-spa-invoice.git`
@@ -25,12 +24,4 @@
 
 `npm install`
 
-### Want More?
 
-Find the link for paid full source code from codecanyon.
-
-https://codecanyon.net/item/apex-sales-purchase-and-invoicing-solution/20752147
-
-### On Youtube
-
-Development: https://youtu.be/00YEXqRGJrg
